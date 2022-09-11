@@ -246,5 +246,9 @@ git branch -d branch name
 ```
 git checkout -b writechange
 ```
-=======
+7. Что бы посмотреть перемещение ветки HEAD и найти все потеренные коммиты используем команду:
+```
+git reflog
+```
+
 
