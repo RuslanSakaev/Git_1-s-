@@ -228,3 +228,7 @@ git branch master
 ```
 git branch -d branch name
 ```
+6. Что бы создать новую ветку и сразу перейти в неё используем команду:
+```
+git checkout -b writechange
+```
