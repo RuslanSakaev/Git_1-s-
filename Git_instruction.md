@@ -200,3 +200,7 @@ git checkout <имя ветки>
 ```
 git branch master
 ```
+5. Для удаления ненужной ветки пользуемся командой:
+```
+git branch -d branch name
+```
