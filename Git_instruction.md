@@ -232,3 +232,19 @@ git branch -d branch name
 ```
 git checkout -b writechange
 ```
+
+<<<<<<< HEAD
+4. Для возвращения к основной ветке набираем команду:
+```
+git branch master
+```
+5. Для удаления ненужной ветки пользуемся командой:
+```
+git branch -d branch name
+```
+6. Что бы создать новую ветку и сразу перейти в неё используем команду:
+```
+git checkout -b writechange
+```
+=======
+
